@@ -1,0 +1,4 @@
+instaloader>=4.16
+browser-cookie3>=0.20
+# 6.10 and later fail to load under Anaconda's Python, whose Visual C++ runtime is older.
+PySide6-Essentials==6.9.3

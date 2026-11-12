@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Build output (the exe is published as a release asset, not committed)
+build/
+dist/
+*.spec
+InstagramDownloader.exe
+
+# Personal settings written next to the app
+settings.json
+settings.json.bad
